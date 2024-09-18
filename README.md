@@ -1,4 +1,4 @@
-1. Titanic Survival Prediction
+**1. Titanic Survival Prediction**
 
 This project analyzes the Titanic dataset to predict the likelihood of a passenger's survival based on various factors like age, gender, ticket class, etc. The project uses data preprocessing and machine learning techniques to build a predictive model.
 
@@ -77,7 +77,7 @@ This project highlights the importance of feature engineering and data preproces
 - Codesoft for the opportunity to work on this project.
 
 
-2. Movie Rating Prediction
+**2. Movie Rating Prediction**
 
 This project predicts movie ratings based on various features like genre, director, cast, budget, and runtime. The goal is to forecast the rating a movie is likely to receive using regression techniques.
 
@@ -154,7 +154,7 @@ The project demonstrates effective use of regression techniques for predicting m
 - Kaggle for providing relevant movie datasets.
 - Codesoft for the opportunity to work on this project.
 
-3. Iris Dataset Analysis
+**3. Iris Dataset Analysis**
 
 This project involves analyzing the Iris dataset to predict the species of Iris flowers based on features such as petal and sepal length and width. The project uses classification techniques to build a model for flower classification.
 
@@ -227,7 +227,7 @@ The project highlights the effectiveness of classification techniques for flower
 - UCI Machine Learning Repository for providing the Iris dataset.
 - Codesoft for the opportunity to work on this project.
 
-4. Advertising Prediction
+**4. Advertising Prediction**
 
 This project aims to predict the effectiveness of advertising campaigns based on features such as daily time spent on the site, age, area income, daily internet usage, and the type of ad clicked. The goal is to predict whether a user will click on an advertisement or not, providing valuable insights for advertisers to target specific user groups more effectively.
 
@@ -308,7 +308,7 @@ This project highlights the importance of feature engineering and data preproces
 - Dataset providers for the advertising data.
 - Codesoft for the opportunity to work on this project.
 
-5. Credit and Debit Card Fraud Prediction
+**5. Credit and Debit Card Fraud Prediction**
 
 This project focuses on identifying fraudulent transactions using machine learning techniques. The dataset contains anonymized information about credit and debit card transactions, and the objective is to detect whether a transaction is fraudulent or not. The project employs various techniques to handle class imbalance and build an effective fraud detection system.
 
@@ -391,4 +391,8 @@ This project demonstrates the importance of addressing class imbalance in fraud 
 - Kaggle for providing the credit card fraud detection dataset.
 - Codesoft for the opportunity to work on this project.
 
+**EXPLANATION LINK**
+https://youtube.com/playlist?list=PLBauONjYpRInYxPsqQOAj79RPn44sSK9Z&si=nVb_I46EHKFiEz7D
 
+**FOR MORE DETAILS**
+LINKEDIN PROJECT SECTION LINK: https://www.linkedin.com/in/rammeyyappan--engineer/details/projects/
